@@ -1,0 +1,17 @@
+{
+  "name": "dog-fact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dog-fact": "dog-fact.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dog-facts": "^1.0.3"
+  }
+}
